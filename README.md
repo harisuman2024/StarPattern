@@ -12,6 +12,7 @@ StarPattern of Rectangle in Java By Ineuron
 
 
 public class StarPattern {
+
       public static void main(String[] args)
 	   {
 		int n=5;
